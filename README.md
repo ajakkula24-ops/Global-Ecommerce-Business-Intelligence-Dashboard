@@ -57,8 +57,6 @@ The dashboard is designed in a **real-world corporate reporting style**, focusin
   - Category & Sub-Category
   - Time (Year, Month)
 
-> ⚠️ Dataset is used for **educational and portfolio purposes only**.
-
 ---
 
 ## 💡 Key Insights
